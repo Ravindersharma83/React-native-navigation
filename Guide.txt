@@ -8,3 +8,18 @@ Commit-1. Setting up Stack Navigation React native
     - @react-navigation/native-stack -> 6.11.0
 
 ***************************************************************************
+
+
+***************************************************************************
+Commit-2. Setting up Drawer Navigation React native
+- Install the following dependencies :-
+    - @react-navigation/drawer": "^6.7.2"
+    - react-native-gesture-handler": "^2.21.2"
+    - react-native-reanimated": "3.3"
+
+    - In babel.config.js file add the following
+        - plugins: ['react-native-reanimated/plugin']
+
+    - cd android && ./gradlew clean
+
+***************************************************************************
