@@ -23,3 +23,11 @@ Commit-2. Setting up Drawer Navigation React native
     - cd android && ./gradlew clean
 
 ***************************************************************************
+
+
+***************************************************************************
+Commit-3. Setting up Bottom Tab Navigation React native
+- Install the following dependencies :-
+    - @react-navigation/bottom-tabs": "^6.6.1"
+
+***************************************************************************
